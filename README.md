@@ -1,35 +1,36 @@
 # Tarique Chowdhury
 
-M.S. Cybersecurity student at Southeast Missouri State University focused on cybersecurity, GRC automation, zero-trust CPS/IoT security, secure systems, and AI-assisted threat detection.
+M.S. Cybersecurity candidate focused on security operations, GRC, enterprise IT, zero-trust CPS/IoT security, and secure systems.
 
-I am building a technical profile around applied cybersecurity work that connects enterprise IT, governance and risk, embedded systems security, cyber-physical systems, and practical security documentation.
+This profile highlights applied cybersecurity work across enterprise infrastructure, governance and risk, embedded systems, and security-focused research.
 
-## Current Focus
+## Selected Work
 
-- Building **Sentinel-CPS**, a zero-trust edge gateway architecture for securing remote cyber-physical systems
-- Developing GRC, risk assessment, and control documentation workflows using NIST-aligned methods
-- Exploring secure telemetry, eBPF observability, embedded security, and AI-assisted anomaly detection
-- Strengthening practical skills in Python, C, Linux, networking, secure systems, and security automation
+### [Sentinel-CPS](https://github.com/ctarique/Sentinel-CPS)
 
-## Featured Projects
+Zero-trust edge gateway architecture for securing remote cyber-physical systems education.
 
-### Sentinel-CPS
+Sentinel-CPS combines a hardened Raspberry Pi gateway, ESP32-based autonomous edge nodes, encrypted ESP-NOW communication, TV-as-a-Track execution, eBPF serial observability, and AI-assisted anomaly detection.
 
-Zero-trust edge gateway for securing autonomous cyber-physical systems in a remote IoT lab environment.
+**Focus areas:** CPS/IoT security, zero trust, Linux, Raspberry Pi, ESP32, Flask, nftables, Ed25519 access control, eBPF, telemetry, AI-assisted threat detection
 
-**Focus areas:** Raspberry Pi, ESP32, Linux, Flask, nftables, Ed25519 access control, telemetry, eBPF observability, AI-assisted threat detection, CPS/IoT security
+---
 
-### OrbitSec
+### [OrbitSec](https://github.com/ctarique/orbitsec)
 
-High-assurance cryptographic bridge for constrained embedded systems using a verify-then-decrypt security model.
+High-assurance cryptographic bridge for resource-constrained embedded systems.
 
-**Focus areas:** C, Python, AES-256, ECDSA P-256, STRIDE threat modeling, fuzz testing, secure packet validation, embedded systems security
+OrbitSec implements an Encrypt-then-Sign / Verify-then-Decrypt workflow using a Python uplink and C firmware decoder. The project includes ECDSA P-256 signature validation, AES-256-CBC encryption, STRIDE threat modeling, and fuzz testing for malformed packet handling.
+
+**Focus areas:** C, Python, applied cryptography, secure packet validation, embedded security, STRIDE, fuzz testing, defensive firmware design
+
+---
 
 ## Technical Areas
 
-Cybersecurity • GRC • Risk Assessment • Secure Systems • IoT Security • CPS Security • Linux • Python • C • Embedded Security • Network Security • AI Security
+Cybersecurity • Security Operations • GRC • Risk Assessment • Network Security • Enterprise IT • Linux • Python • C • Secure Systems • Embedded Security • CPS/IoT Security • AI-Assisted Threat Detection
 
-## Links
+## Professional Links
 
-- LinkedIn: https://www.linkedin.com/in/ctarique
-- GitHub: https://github.com/ctarique
+* [LinkedIn](https://www.linkedin.com/in/ctarique)
+* [GitHub](https://github.com/ctarique)
