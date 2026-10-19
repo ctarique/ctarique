@@ -1,10 +1,8 @@
 # Tarique Chowdhury
 
-M.S. Cybersecurity candidate at Southeast Missouri State University, graduating in December 2026.
-
-I have over five years of experience in higher-ed IT, including Tier II technical support, information security, and GRC.
-
-My current research focuses on cyber-physical systems (CPS), IoT security, secure systems, access control, and system observability.
+IT and cybersecurity professional with 5+ years of experience supporting enterprise technology in higher education, including
+Tier II technical support, information security work, GRC, and security awareness training. MSCY candidate (December 2026)
+with hands-on Linux, and CPS/IoT research.
 
 ## Featured Projects
 
@@ -12,9 +10,9 @@ My current research focuses on cyber-physical systems (CPS), IoT security, secur
 
 **M.S. Cybersecurity Thesis Research**
 
-CPS Studio is a Gateway-based platform for secure experimentation with cyber-physical systems.
+CPS Studio is a platform for secure cyber-physical systems experimentation.
 
-I designed and built a Raspberry Pi Gateway that allows students to interact with ESP32-based devices through a web browser without direct administrative access to the underlying infrastructure.
+I designed and built a Raspberry Pi Gateway that allows students to interact with ESP32-microcontroller based CPS devices through a web browser without direct administrative access to the underlying infrastructure.
 
 The platform includes:
 
@@ -24,8 +22,6 @@ The platform includes:
 - A dedicated Lab Display and Digital Twin with device connectivity telemetry.
 - Linux network isolation using nftables.
 - eBPF/BCC monitoring and offline anomaly analysis using Isolation Forest.
-
-The Gateway, LED experiment, and supported vehicle functions have been exercised on physical hardware. Autonomous track following and formal laboratory evaluation remain in development.
 
 **Technologies:** Raspberry Pi 4 · ESP32 · Python · C/C++ · Flask · Linux · nftables · HMAC-SHA256 · eBPF/BCC · scikit-learn
 
