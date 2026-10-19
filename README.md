@@ -2,7 +2,7 @@
 
 M.S. Cybersecurity candidate at Southeast Missouri State University, graduating in December 2026.
 
-I have over five years of experience in university IT, including Tier II technical support, information security, governance, risk, and compliance (GRC), and security awareness.
+I have over five years of experience in higher-ed IT, including Tier II technical support, information security, and GRC.
 
 My current research focuses on cyber-physical systems (CPS), IoT security, secure systems, access control, and system observability.
 
