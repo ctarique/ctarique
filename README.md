@@ -1,47 +1,68 @@
 # Tarique Chowdhury
 
-M.S. Cybersecurity candidate at Southeast Missouri State University with 5+ years of university IT experience and work spanning information security, GRC, Linux, embedded systems, and CPS/IoT security.
+M.S. Cybersecurity candidate at Southeast Missouri State University, graduating in December 2026.
+
+I have over five years of experience in university IT, including Tier II technical support, information security, governance, risk, and compliance (GRC), and security awareness.
+
+My current research focuses on cyber-physical systems (CPS), IoT security, secure systems, access control, and system observability.
 
 ## Featured Projects
 
-### Sentinel-CPS
+### [CPS Studio](https://github.com/ctarique/cps-studio)
 
-Master’s thesis research focused on a Zero-Trust-oriented Raspberry Pi 4 Gateway for controlled interaction with a physical CPS/IoT laboratory.
+**M.S. Cybersecurity Thesis Research**
 
-The Gateway mediates authorized interaction with an ESP32-based CPS over Wi-Fi, applies role and workflow controls, records system evidence and status, and supports direct HDMI integration with the physical lab environment.
+CPS Studio is a Gateway-based platform for secure experimentation with cyber-physical systems.
 
-Security evaluation incorporates Linux/nftables controls, eBPF/BCC observability, deterministic monitoring and mitigation, and offline anomaly analysis.
+I designed and built a Raspberry Pi Gateway that allows students to interact with ESP32-based devices through a web browser without direct administrative access to the underlying infrastructure.
 
-**Core areas:** CPS/IoT Security · Zero Trust · Linux Security · Access Control · Observability · Anomaly Detection  
-**Stack:** Raspberry Pi 4 · ESP32 · Linux · Python · Flask · nftables · eBPF/BCC
+The platform includes:
+
+- Gateway-mediated device communication and access control.
+- Bounded experimental commands and firmware-level execution checks.
+- ESP32-CAM LED programming and ESP32-WROVER vehicle controls.
+- A dedicated Lab Display and Digital Twin with device connectivity telemetry.
+- Linux network isolation using nftables.
+- eBPF/BCC monitoring and offline anomaly analysis using Isolation Forest.
+
+The Gateway, LED experiment, and supported vehicle functions have been exercised on physical hardware. Autonomous track following and formal laboratory evaluation remain in development.
+
+**Technologies:** Raspberry Pi 4 · ESP32 · Python · C/C++ · Flask · Linux · nftables · HMAC-SHA256 · eBPF/BCC · scikit-learn
+
+**[View Repository](https://github.com/ctarique/cps-studio) | [Try Interactive Simulator](https://ctarique.github.io/cps-studio/)**
 
 ### OrbitSec
 
-High-assurance cryptographic bridge for embedded IoT devices.
+**Secure Communications for Embedded IoT Devices**
 
-Led a 6-member team in developing a secure communication architecture using C, Python, ECDSA P-256, AES-256-CBC, and STRIDE threat modeling. Implemented verify-before-decrypt receiver logic and Python tooling for encrypted communication and fuzz testing of malformed and adversarial inputs.
+Led a six-member team in developing a secure communication prototype for embedded IoT devices.
 
-**Core areas:** Embedded Security · Applied Cryptography · Secure Firmware · Threat Modeling · Fuzz Testing  
-**Stack:** C · Python · ECDSA P-256 · AES-256-CBC · STRIDE
+The project used ECDSA P-256 for digital signatures, AES-256-CBC for encryption, and SHA-256 for hashing. My contributions included implementing verify-before-decrypt receiver logic and developing Python tools for encrypted communication and testing malformed inputs.
 
-## GRC Work
+We also used STRIDE threat modeling to identify security risks and guide the system's design.
 
-### Eramba CE Prototype
+**Technologies:** C · Python · ECDSA P-256 · AES-256-CBC · SHA-256 · STRIDE · Fuzz Testing
 
-Built and documented an Eramba CE prototype in a virtualized environment to explore practical governance, risk, and compliance workflows.
+## Professional Background
 
-The work included risk registers, policies, assets, risks, security controls, and NIST SP 800-30-aligned risk assessment practices. Public materials are being prepared separately where they can be shared without exposing university information.
+My experience at Southeast Missouri State University includes:
 
-## Technical Areas
+- **Information Security:** Supported risk assessments, PCI DSS compliance activities, security awareness training, and security control documentation.
+- **Enterprise IT:** Provided Tier II support for university systems, including Active Directory, Microsoft 365, VPN, authentication, networking, and endpoint troubleshooting.
+- **IT Operations:** Worked with TeamDynamix, maintained technical documentation, and assisted with troubleshooting and incident resolution.
 
-**Security:** Information Security · GRC · Risk Assessment · Network Security · Access Control · Embedded Security · Threat Modeling
+## Technical Skills
 
-**Systems:** Linux · Windows · macOS · Active Directory · Microsoft 365 · Raspberry Pi · ESP32 · TCP/IP · DNS · DHCP · VPN
+**Cybersecurity:** Information Security · GRC · Risk Assessment · Access Control · Network Security · Embedded Security · Threat Modeling · Security Awareness
 
-**Tools:** Wireshark · Nmap · tcpdump · nftables · eBPF/BCC · Eramba CE · VMware · Docker
+**Systems & Networking:** Linux · Windows · macOS · Active Directory · Microsoft 365 · TCP/IP · DNS · DHCP · VPN · Raspberry Pi · ESP32
 
-**Programming:** Python · C · Bash · PowerShell · Git
+**Security Tools:** Wireshark · Nmap · tcpdump · nftables · eBPF/BCC · Splunk (Coursework)
 
-## Links
+**Programming & Development:** Python · C · C++ · Bash · PowerShell · JavaScript · Git · Flask · Docker · VMware
 
-[LinkedIn](https://www.linkedin.com/in/ctarique)
+**Research:** CPS/IoT Security · Secure Systems · System Observability · Anomaly Detection · Embedded Computing
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ctarique/) · [GitHub](https://github.com/ctarique)
