@@ -65,4 +65,4 @@ My experience at Southeast Missouri State University includes:
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/ctarique/) · [GitHub](https://github.com/ctarique)
+[LinkedIn](https://www.linkedin.com/in/ctarique/)
